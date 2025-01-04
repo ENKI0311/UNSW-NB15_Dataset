@@ -59,7 +59,7 @@ The machine learning-based Network Intrusion Detection System developed in this 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nids-ml-project.git
+   git clone https://github.com/ENKI0311/nids-ml-project.git
    ```
 2. Install the required dependencies:
    ```bash
